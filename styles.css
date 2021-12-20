@@ -9,7 +9,7 @@
 
 * {
     box-sizing: border-box;
-    max-width: 95%
+    max-width: 100%
 }
 
 html, body {
@@ -98,7 +98,7 @@ max-width: 100%;
 }
 .flex {
   display: flex;
-  max-width: 95%;
+  max-width: 100%;
 }
 
 /*********************************************************************
